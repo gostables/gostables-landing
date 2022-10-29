@@ -3,6 +3,6 @@
 </h1>
 
 
-* Website: [https://gostables.finance](https://gostables.finance)
+* Website: [https://gostables.finance](https://gostables.org)
 
 
