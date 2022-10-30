@@ -82,7 +82,8 @@
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  margin-bottom: 42px;
+  margin: 42px;
+  text-align: center;
 }
 .slide-author {
   color: var(--dl-color-grays-white100);
