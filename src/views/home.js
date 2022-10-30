@@ -65,7 +65,7 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-input-container">
-                <a href="https://app.gostables.org/">
+                <a href="#">
                   <button className="home-button button-primary button">
                     Get started
                   </button>
@@ -119,41 +119,41 @@ const Home = (props) => {
                     <div className="home-container05">
                       <img
                         alt="image"
-                        src="/playground_assets/xcdd-200h.png"
+                        src="/playground_assets/gxcd-200h.png"
                         className="home-image01"
                       />
                     </div>
                     <img
                       alt="image"
-                      src="/playground_assets/ttdd-200h.png"
+                      src="/playground_assets/gttd-200h.png"
                       className="home-image02"
                     />
                   </div>
                   <img
                     alt="image"
-                    src="/playground_assets/bbdd-200h.png"
+                    src="/playground_assets/gbbd-200h.png"
                     className="home-image03"
                   />
                   <img
                     alt="image"
-                    src="/playground_assets/jmdd-200h.png"
+                    src="/playground_assets/gjmd-200h.png"
                     className="home-image04"
                   />
                 </div>
                 <img
                   alt="image"
-                  src="/playground_assets/bsdd-200h.png"
+                  src="/playground_assets/gbsd-200h.png"
                   className="home-image05"
                 />
                 <img
                   alt="image"
-                  src="/playground_assets/awgd-200h.png"
+                  src="/playground_assets/gawg-200h.png"
                   className="home-image06"
                 />
               </div>
               <img
                 alt="image"
-                src="/playground_assets/cupd-200h.png"
+                src="/playground_assets/gcup-200h.png"
                 className="home-image07"
               />
             </div>
@@ -297,7 +297,7 @@ const Home = (props) => {
             <div className="home-image-container3">
               <img
                 alt="image"
-                src="/playground_assets/section-image1-1200w.png"
+                src="/playground_assets/section-image3-1200w.png"
                 className="home-image15"
               />
             </div>
@@ -306,13 +306,6 @@ const Home = (props) => {
                 <h1 className="home-text55">
                   <span className="heading2">Earn with</span>
                   <br className="heading2"></br>
-                  <span className="heading2">
-                    <span
-                      dangerouslySetInnerHTML={{
-                        __html: ' ',
-                      }}
-                    />
-                  </span>
                   <span className="home-text59 heading2">g</span>
                   <span className="home-text60">Stable Vaults</span>
                 </h1>

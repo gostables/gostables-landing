@@ -840,7 +840,7 @@
     width: 100%;
   }
   .home-input-container {
-    flex-direction: column;
+    
   }
   .home-stats {
     padding-top: var(--dl-space-space-twounits);
