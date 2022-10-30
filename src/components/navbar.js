@@ -11,7 +11,7 @@ const Navbar = (props) => {
       <header data-role="Header" className="navigation-container">
         <img
           alt={props.image_alt}
-          src="/playground_assets/gostables-logo-alt21-200h.png"
+          src="/playground_assets/logox.png"
           className="navbar-image"
         />
         <div className="navbar-nav">

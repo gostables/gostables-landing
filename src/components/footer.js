@@ -9,7 +9,7 @@ const Footer = (props) => {
     <footer className="footer-footer">
       <img
         alt={props.image_alt}
-        src="/playground_assets/gostables-logo-alt21-200h.png"
+        src="/playground_assets/logox.png"
         className="footer-image"
       />
       <span className="footer-text">© {new Date().getFullYear()}{props.text}</span>

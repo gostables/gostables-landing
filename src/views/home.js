@@ -392,7 +392,7 @@ const Home = (props) => {
               together.
             </span>
             <div className="home-btn-group">
-              <a href="https://app.gostables.org/"><button className="home-button3 button">Launch App</button></a>
+              <a href="#"><button className="home-button3 button">Launch App</button></a>
               <a href="https://github.com/gostables"><button className="home-button4 button">Github</button></a>
               <a href="https://t.me/gostables"><button className="home-button5 button">Telegram</button></a>
               <a href="https://twitter.com/gostables"><button className="home-button6 button">Twitter</button></a>
