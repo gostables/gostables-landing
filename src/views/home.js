@@ -139,6 +139,11 @@ const Home = (props) => {
                     src="/playground_assets/gjmd-200h.png"
                     className="home-image04"
                   />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gbsd-200h.png"
+                    className="home-image05"
+                  />
                 </div>
 
               </div>
