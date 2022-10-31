@@ -65,12 +65,12 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-input-container">
-                <a href="#">
+                <a href="#coming-sooncoming-soon">
                   <button className="home-button button-primary button">
                     Get started
                   </button>
                 </a>
-                <a href="https://docs.gostables.org/">
+                <a href="https:#coming-sooncoming-soon">
                   <button className="home-button1 button-primary button">
                     How it Works
                   </button>
@@ -280,9 +280,9 @@ const Home = (props) => {
                   {...props}
                 >
                   <defs>
-                    <style>{".cls-2{fill:#fff}"}</style>
+                    <style>{".cls-2{fill:#coming-soonfff}"}</style>
                   </defs>
-                  <circle cx={782.51} cy={833.67} r={748.5} fill="#216c58" />
+                  <circle cx={782.51} cy={833.67} r={748.5} fill="#coming-soon216c58" />
                   <path
                     className="cls-2"
                     d="M1447.55 867.67a14 14 0 00-14 13c-24.28 339.68-310.26 605.76-651.08 605.76s-626.76-266.09-651.04-605.77a14 14 0 00-27.95 2 681 681 0 001306.27 216 675.55 675.55 0 0051.78-216 14 14 0 00-14-15zM117.46 799.67a14.05 14.05 0 0014-13C155.71 447 441.69 180.92 782.5 180.92S1409.3 447 1433.58 786.67a14 14 0 0028-2 681 681 0 00-1306.27-216 675.5 675.5 0 00-51.78 216 14 14 0 0014 15z"
@@ -408,7 +408,7 @@ const Home = (props) => {
               together.
             </span>
             <div className="home-btn-group">
-              <a href="#"><button className="home-button3 button">Launch App</button></a>
+              <a href="#coming-soon"><button className="home-button3 button">Launch App</button></a>
               <a href="https://github.com/gostables"><button className="home-button4 button">Github</button></a>
               <a href="https://t.me/gostables"><button className="home-button5 button">Telegram</button></a>
               <a href="https://twitter.com/gostables"><button className="home-button6 button">Twitter</button></a>
