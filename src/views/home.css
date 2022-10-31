@@ -1,3 +1,8 @@
+.collat-name{
+  margin-top: 12px;
+  padding-right: 6px;
+}
+
 .home-container {
   width: 100%;
   display: flex;
@@ -313,10 +318,12 @@
   margin-right: var(--dl-space-space-oneandhalfunits);
 }
 .home-image08 {
-  width: 100%;
+  width: 90%;
   max-width: 640px;
   object-fit: cover;
-  margin-left: -100px;
+  margin-left: -50px;
+      -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0.8)));
+      mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.8));
 }
 .home-content-container1 {
   flex: 1;
@@ -438,6 +445,13 @@
   object-fit: cover;
   margin-right: 5px;
 }
+
+.usdd-image-x{
+  width: 36px;
+  display: inline;
+  margin-bottom: -2px;
+}
+
 .home-image10 {
   width: 30px;
   margin: 5px;
@@ -468,10 +482,19 @@
   flex: 1;
   margin-left: var(--dl-space-space-oneandhalfunits);
 }
+
+.home-image-container2 svg {
+  width: 380px;
+  float: right;
+  border-radius: 50px;
+  padding: 20px;
+  box-shadow: 0px 3px 25px #49c5b6;;
+}
+
 .home-image14 {
-  width: 100%;
+  width: 90%;
   object-fit: cover;
-  margin-left: 85px;
+  margin-left: 60px;
 }
 .home-max-width4 {
   flex-direction: row;
@@ -482,10 +505,11 @@
   margin-right: var(--dl-space-space-oneandhalfunits);
 }
 .home-image15 {
-  width: 100%;
+  width: 70%;
   max-width: 640px;
   object-fit: cover;
-  margin-left: -100px;
+  -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
 }
 .home-container11 {
   flex: 0 0 auto;
@@ -877,3 +901,4 @@
     margin-left: 0px;
   }
 }
+
