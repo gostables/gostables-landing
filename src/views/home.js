@@ -78,11 +78,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-image-container">
-              <img
-                alt="image"
-                src="/playground_assets/hero%20image-500w.png"
-                className="home-image"
-              />
+
             </div>
           </div>
         </div>
