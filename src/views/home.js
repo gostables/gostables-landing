@@ -79,7 +79,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-image-container">
-
+              <img src="/playground_assets/icon.png"/>
             </div>
           </div>
         </div>
