@@ -17,8 +17,8 @@ const Home = (props) => {
         <meta property="og:title" content="goStables" />
       </Helmet>
       <Navbar
-        image_src="/playground_assets/gostables-logo-alt-1500h.png"
-        image_src1="/playground_assets/gostables-logo-alt-1500h.png"
+        image_src="/playground_assets/logox.png"
+        image_src1="/playground_assets/logox.png"
         rootClassName="navbar-root-class-name"
       ></Navbar>
       <main className="home-main">
@@ -79,7 +79,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-image-container">
-              <img src="/playground_assets/icon.png"/>
+              <img src="/playground_assets/hero-image.png"/>
             </div>
           </div>
         </div>
