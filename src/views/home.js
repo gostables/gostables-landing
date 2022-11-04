@@ -71,7 +71,7 @@ const Home = (props) => {
                     Get started
                   </button>
                 </a>
-                <a href="https:#coming-sooncoming-soon">
+                <a href="https://docs.gostables.org/">
                   <button className="home-button1 button-primary button">
                     How it Works
                   </button>
@@ -375,7 +375,7 @@ const Home = (props) => {
             </span>
             <div className="home-btn-group">
               <a href="#coming-soon"><button className="home-button3 button">Launch App</button></a>
-              <a href="https://github.com/gostables"><button className="home-button4 button">Github</button></a>
+              <a href="https://docs.gostables.org/"><button className="home-button4 button">Docs</button></a>
               <a href="https://t.me/gostables"><button className="home-button5 button">Telegram</button></a>
               <a href="https://twitter.com/gostables"><button className="home-button6 button">Twitter</button></a>
             </div>
