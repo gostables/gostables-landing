@@ -223,22 +223,22 @@ const Home = (props) => {
                 /><span className="collat-name">BTC</span>
                 <img
                   alt="TRX"
-                  src="/playground_assets/trx-200h.png"
+                  src="/playground_assets/trx.png"
                   className="home-image10"
                 /><span className="collat-name">TRX</span>
                 <img
                   alt="USDT"
-                  src="/playground_assets/usdt-200h.png"
+                  src="/playground_assets/usdt.png"
                   className="home-image11"
                 /><span className="collat-name">USDT</span>
                 <img
                   alt="USDC"
-                  src="/playground_assets/usdc-200w.png"
+                  src="/playground_assets/usdc.png"
                   className="home-image12"
                 /><span className="collat-name">USDC</span>
                 <img
                   alt="TUSD"
-                  src="/playground_assets/tusd-200h.png"
+                  src="/playground_assets/tusd.png"
                   className="home-image13"
                 /><span className="collat-name">TUSD</span>
               </div>
