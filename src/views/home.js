@@ -206,7 +206,7 @@ const Home = (props) => {
               </div>
               <span className="home-text43">
                 <span>
-                  US Decentralized Dollar (USDD) is pegged 1:1 with the price of
+                  Decentralized USD (USDD) is pegged 1:1 with the price of
                   USD and is over-collateralized with a basket of crypto assets
                   including:
                 </span>
