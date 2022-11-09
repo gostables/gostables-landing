@@ -218,7 +218,7 @@ const Home = (props) => {
               <div className="home-container10">
                 <img
                   alt="BTC"
-                  src="/playground_assets/btc-200h.png"
+                  src="/playground_assets/btc.png"
                   className="home-image09"
                 /><span className="collat-name">BTC</span>
                 <img
