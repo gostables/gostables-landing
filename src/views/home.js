@@ -66,7 +66,7 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-input-container">
-                <a href="#coming-sooncoming-soon">
+                <a href="https://app.gostables.org"  target="_blank">
                   <button className="home-button button-primary button">
                     Get started
                   </button>
@@ -305,7 +305,7 @@ const Home = (props) => {
                   <br></br>
                 </span>
               </div>
-              <a href="https://app.gostables.org/"><button className="home-button2 button">Launch App</button></a>
+              <a href="https://app.gostables.org/"  target="_blank"><button className="home-button2 button">Launch App</button></a>
             </div>
           </div>
         </div>
@@ -374,10 +374,10 @@ const Home = (props) => {
               together.
             </span>
             <div className="home-btn-group">
-              <a href="#coming-soon"><button className="home-button3 button">Launch App</button></a>
-              <a href="https://docs.gostables.org/"><button className="home-button4 button">Docs</button></a>
-              <a href="https://t.me/gostables"><button className="home-button5 button">Telegram</button></a>
-              <a href="https://twitter.com/gostables"><button className="home-button6 button">Twitter</button></a>
+              <a href="https://app.gostables.org"  target="_blank"><button className="home-button3 button">Launch App</button></a>
+              <a href="https://docs.gostables.org/"  target="_blank"><button className="home-button4 button">Docs</button></a>
+              <a href="https://t.me/gostables"  target="_blank"><button className="home-button5 button">Telegram</button></a>
+              <a href="https://twitter.com/gostables"  target="_blank"><button className="home-button6 button">Twitter</button></a>
             </div>
           </div>
         </div>

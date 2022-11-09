@@ -23,7 +23,7 @@ const Navbar = (props) => {
             className=""
           ></NavigationLinks>
         </div>
-        <a href="#" target="_blank">
+        <a href="https://app.gostables.org/" target="_blank">
           <button className="button-primary button navbar-primary-btn1">
             {props.PrimaryBtn}
           </button>
