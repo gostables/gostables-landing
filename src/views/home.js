@@ -116,31 +116,62 @@ const Home = (props) => {
                     <div className="home-container05">
                     <img
                       alt="image"
-                      src="/playground_assets/gttd-200h.png"
+                      src="/playground_assets/gTTD.png"
                       className="home-image02"
                     />
                     </div>
                       <img
                         alt="image"
-                        src="/playground_assets/gxcd-200h.png"
+                        src="/playground_assets/gXCD.png"
                         className="home-image01"
                       />
                   </div>
                   <img
                     alt="image"
-                    src="/playground_assets/gbbd-200h.png"
+                    src="/playground_assets/gBBD.png"
                     className="home-image03"
                   />
                   <img
                     alt="image"
-                    src="/playground_assets/gjmd-200h.png"
+                    src="/playground_assets/gJMD.png"
                     className="home-image04"
                   />
                   <img
                     alt="image"
-                    src="/playground_assets/gbsd-200h.png"
+                    src="/playground_assets/gBSD.png"
                     className="home-image05"
                   />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gAWG.png"
+                    className="home-image05"
+                  />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gCUP.png"
+                    className="home-image05"
+                  />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gKYD.png"
+                    className="home-image05"
+                  />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gDOP.png"
+                    className="home-image05"
+                  />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gHTG.png"
+                    className="home-image05"
+                  />
+                  <img
+                    alt="image"
+                    src="/playground_assets/gEUR.png"
+                    className="home-image05"
+                  />
+
                 </div>
 
               </div>
