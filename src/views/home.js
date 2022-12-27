@@ -183,7 +183,7 @@ const Home = (props) => {
           <div className="home-max-width2 max-content-container">
             <div className="home-image-container1">
               <img
-                alt="image"
+                alt="Swap UX"
                 src="/playground_assets/swap-ux.jpg"
                 className="home-image08"
               />
@@ -309,9 +309,9 @@ const Home = (props) => {
           <div className="home-max-width4 max-content-container">
             <div className="home-image-container3">
               <img
-                alt="image"
+                alt="Vaults UX"
                 src="/playground_assets/vaults-ux.jpg"
-                className="home-image15"
+                className="home-image08"
               />
             </div>
             <div className="home-container11">
@@ -333,10 +333,47 @@ const Home = (props) => {
                   </span>
                   <br></br>
                   <br></br>
+                  <span>More Vaults with benefits coming soon!</span>
+                  <br></br>
                   <br></br>
                 </span>
               </div>
               <a href="https://app.gostables.org/"  target="_blank"><button className="home-button2 button">Launch App</button></a>
+            </div>
+          </div>
+        </div>
+        <div className="section-container">
+          <div className="home-max-width3 max-content-container">
+            <div className="home-content-container2">
+              <h1 className="home-text40">
+                <span className="home-text41">Wallet</span>
+                <span> Balances</span>
+
+              </h1>
+              <div className="home-container06">
+                <div className="home-container07">
+                  <div className="home-container08">
+                    <div className="home-container09"></div>
+                  </div>
+                </div>
+              </div>
+              <span className="home-text43">
+                <span>
+                  View your gStables and Vault deposits in a simple, unified view.
+                </span>
+                <br></br>
+                <span>
+                </span>
+                <br></br>
+              </span>
+              <div className="home-container10">
+
+              </div>
+                <a href="https://app.gostables.org/"  target="_blank"><button className="home-button2 button">Launch App</button></a>
+            </div>
+            <div className="home-image-container2 wallet-ux">
+              <img alt="Wallet UX" src="/playground_assets/wallet-ux.png"/>
+
             </div>
           </div>
         </div>
@@ -394,11 +431,38 @@ const Home = (props) => {
             <Slide rootClassName="slide-root-class-name2"></Slide>
           </div>
         </div>
+        <div className="home-section-four section-container">
+          <div className="home-max-width5 max-content-container">
+            <h2 id="media"className="home-text91">
+              <span className="home-text93">Media</span>
+            </h2>
+          </div>
+            <span className="home-text97">
+              <a target="_blank" href="https://forum.trondao.org/t/the-tron-grand-hackathon-season-3-winners-announcement/16091">Tron Grand Hackathon Season 3 - DeFi 5th Place</a>
+              <div className="row">
+                <div className="column">
+                  <a target="_blank" href="https://trondao.org/hackathon/projects/defi-5th-place-gostables-by-gostables/">
+                    <img src="/playground_assets/tron-trx-logo-full.svg"></img>
+                  </a>
+                </div>
+                <div className="column pt-27">
+                  <a target="_blank" href="https://devpost.com/software/gostables">
+                    <img src="/playground_assets/devpost-logo.svg"></img>
+                  </a>
+                </div>
+                <div className="column w-180">
+                  <a target="_blank" href="https://cointelegraph.com/press-releases/tron-grand-hackathon-2022-season-3-winners-announced">
+                    <img src="/playground_assets/cointelegraph-logo.png"></img>
+                  </a>
+                </div>
+              </div>
+            </span>
+        </div>
         <div className="home-section-five section-container">
           <div className="home-banner">
             <h1 id="community" className="home-text94">
-              <span className="home-text95">Join</span>
-              <span> The Community</span>
+              <span>Join</span>
+              <span className="home-text95"> The Community</span>
             </h1>
             <span className="home-text97">
               Become part of this journey. Let&apos;s see where we can take this

@@ -10,7 +10,8 @@ const NavigationLinks = (props) => {
       <a href="#home"><span className="navbar-link">{props.text}</span></a>
       <a href="#protocol"><span className="navigation-links-text1 navbar-link">{props.text1}</span></a>
       <a href="#vision"><span className="navigation-links-text2 navbar-link">{props.text2}</span></a>
-      <a href="#community"><span className="navigation-links-text3 navbar-link">{props.text21}</span></a>
+      <a href="#media"><span className="navigation-links-text2 navbar-link">{props.text3}</span></a>
+      <a href="#community"><span className="navigation-links-text3 navbar-link">{props.text4}</span></a>
     </nav>
   )
 }
@@ -20,7 +21,8 @@ NavigationLinks.defaultProps = {
   text: 'Home',
   text1: 'Protocol',
   text2: 'Vision',
-  text21: 'Community',
+  text3: 'Media',
+  text4: 'Community',
 }
 
 NavigationLinks.propTypes = {
@@ -28,7 +30,8 @@ NavigationLinks.propTypes = {
   text: PropTypes.string,
   text1: PropTypes.string,
   text2: PropTypes.string,
-  text21: PropTypes.string,
+  text3: PropTypes.string,
+  text4: PropTypes.string,
 }
 
 export default NavigationLinks
