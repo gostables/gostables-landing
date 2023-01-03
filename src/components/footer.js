@@ -12,7 +12,7 @@ const Footer = (props) => {
         src="/playground_assets/logox.png"
         className="footer-image"
       />
-      <span className="footer-text">© {new Date().getFullYear()}{props.text}</span>
+      <span className="footer-text">© 2022 - {new Date().getFullYear()}{props.text}</span>
     </footer>
   )
 }
