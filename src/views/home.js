@@ -237,7 +237,16 @@ const Home = (props) => {
               </div>
               <span className="home-text43">
                 <span>
-                  Decentralized USD (USDD) is pegged 1:1 with the price of
+                  Decentralized USD (USDD) is <a href="https://www.thecoinrepublic.com/2022/10/13/tron-gets-legal-tender-in-the-commonwealth-of-dominica/" target="_blank" rel="noreferrer noopener"
+                  className="home-link">Legal Tender in  The Commonwealth of Dominica.</a>
+                                    <img
+                    alt="image"
+                    src="/playground_assets/gDOP.png" width="22"
+                    className="home-image05"
+                  />
+                </span><br/><br/>
+                <span>
+                  USDD is pegged 1:1 with the price of
                   USD and is over-collateralized with a basket of crypto assets
                   including:
                 </span>
