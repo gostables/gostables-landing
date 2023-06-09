@@ -335,7 +335,7 @@ const Home = (props) => {
                   <span>Support your favourite gStable by adding USDD to gStable Vaults, freezing it for 72 hours.</span>
                   <br></br>
                   <br></br>
-                  <span className="home-text70">40%</span>
+                  <span className="home-text70">Up to 80%</span>
                   <span>
                     {' '}
                     of the protocol&apos;s fees are distributed to gStable Vault users in gStables.
