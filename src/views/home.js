@@ -213,7 +213,7 @@ const Home = (props) => {
                 <br></br>
                 <br></br>
                 <br></br>
-                <span className="home-text37">*+ 0.3% </span>
+                <span className="home-text37">*+ 0.5% </span>
                 <span className="home-text38">Protocol fee</span>
                 <br></br>
               </span>
